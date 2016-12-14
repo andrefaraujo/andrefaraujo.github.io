@@ -12,5 +12,5 @@ author_profile: true
 {% endif %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include publications-andre.html %}
 {% endfor %}
