@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Andre Araujo"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,6 +12,4 @@ This is the front page of your Github pages website! This repository was forked 
 
 You can use all kinds of markdown here. See [the guide](/markdown/).
 
-## Images
-![alt text](/images/500x300.png "Logo Title Text 1")
 
