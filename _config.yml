@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Andre Araujo"
-  avatar           : "/assets/images/Andre_Araujo.jpg"
+  avatar           : "Andre_Araujo.jpg"
   bio              : "PhD, Software Engineer at Google"
   location         : "Mountain View, CA"
   employer         : 
