@@ -1,4 +1,5 @@
 ---
+layout: about_layout
 permalink: /
 title: "Andre Araujo"
 excerpt: "About me"
