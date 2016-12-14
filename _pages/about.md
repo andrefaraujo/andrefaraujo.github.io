@@ -9,8 +9,14 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of your Github pages website! This repository was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) by Michael Rose. 
+I am a Software Engineer at Google, Inc.
+My current work focuses on Computer Vision, more specifically on instance-level recognition/retrieval.
 
-You can use all kinds of markdown here. See [the guide](/markdown/).
+I did my PhD at Stanford University, working on image and video retrieval, under the supervision of [Prof. Bernd Girod](http://www.stanford.edu/~bgirod).
+During my time at Stanford, I also worked on image classification and compression.
+
+I am a [Fulbright Science & Technology Scholar](http://fulbrightscienceandtech.org/) and an [Accel Innovation Scholar](http://stvp.stanford.edu/ais/).
+On the science outreach side, I co-founded and was an editor of [The Global Scientist](https://theglobalscientist.com/) online magazine.
+
 
 
