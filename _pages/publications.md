@@ -8,8 +8,8 @@ author_profile: true
 {% include base_path %}
 
 t1
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% if site.author.googlescholar %}
+  You can also find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
   t3
 {% endif %}
 t2
