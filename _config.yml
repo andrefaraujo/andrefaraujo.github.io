@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Andre Araujo"
 title_separator          : "-"
 name                     : &name "Andre Araujo"
 description              : &description "Andre Araujo's personal website"
