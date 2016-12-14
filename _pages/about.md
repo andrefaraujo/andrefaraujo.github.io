@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Software Engineer at Google, Inc.
+I am a Software Engineer @ Google, Inc.
 My current work focuses on Computer Vision, more specifically on instance-level recognition/retrieval.
 
 I did my PhD at Stanford University, working on image and video retrieval, under the supervision of [Prof. Bernd Girod](http://www.stanford.edu/~bgirod).
