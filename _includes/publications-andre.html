@@ -14,8 +14,32 @@
 
 <li>
   <p style="COLOR: black;">{{ title }}
-    <u><a href="{{ post.paperurl }}">[Thesis]</a></u>
+    {% if post.paperurl %}
+    <u><a href="{{ post.paperurl }}">[{{ post.papername }}]</a></u>
+    {% endif %}
+    {% if post.slideurl %}
     <u><a href="{{ post.slideurl }}">[Slides]</a></u>
-    <u><a href="{{ post.videourl }}">[Defense]</a></u>
+    {% endif %}
+    {% if post.posterurl %}
+    <u><a href="{{ post.posterurl }}">[Poster]</a></u>
+    {% endif %}
+    {% if post.videourl %}
+    <u><a href="{{ post.videourl }}">[{{ post.videoname }}]</a></u>
+    {% endif %}
+    {% if post.dataseturl %}
+    <u><a href="{{ post.dataseturl }}">[{{ post.datasetname }}]</a></u>
+    {% endif %}
+    {% if post.dataset2url %}
+    <u><a href="{{ post.dataset2url }}">[{{ post.dataset2name }}]</a></u>
+    {% endif %}
+    {% if post.dataset3url %}
+    <u><a href="{{ post.dataset3url }}">[{{ post.dataset3name }}]</a></u>
+    {% endif %}
+    {% if post.projecturl %}
+    <u><a href="{{ post.projecturl }}">[{{ post.projectname }}]</a></u>
+    {% endif %}
+    {% if post.codeurl %}
+    <u><a href="{{ post.codeurl }}">[{{ post.codename }}]</a></u>
+    {% endif %}
   </p>
 </li>
