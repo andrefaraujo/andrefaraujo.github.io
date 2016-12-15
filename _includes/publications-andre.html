@@ -14,8 +14,7 @@
 
 <li>
   <p style="COLOR: black;">
-    {{ post.authors }}
-    {{ title }}
+    {{ post.authors }}, {{ title }}
     {% if post.paperurl %}
     <u><a href="{{ post.paperurl }}">[{{ post.papername }}]</a></u>
     {% endif %}
