@@ -6,7 +6,7 @@ venue: "Journal 1"
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 paperurl: https://searchworks.stanford.edu/view/11739291
-slideurl: http://web.stanford.edu/~afaraujo/Andre_Araujo_PhD_defense.pdf
+slideurl: /files/slides/2016_03_24_thesis_slides.pdf
 videourl: https://youtu.be/tLqbdQR7kjM
 citation: 'Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).'
 ---
