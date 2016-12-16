@@ -1,5 +1,5 @@
 ---
-title: '"EigenNews: A personalized news delivery video platform,"'
+title: '"EigenNews: A Personalized News Delivery Video Platform,"'
 collection: publications
 authors: M. Yu, P. Vajda, D. Chen, M. Daneshi, S. Tsai, A. Araujo, H. Chen and B. Girod
 paperurl: /files/papers/2013-10-21-mm-eigennews-platform.pdf
