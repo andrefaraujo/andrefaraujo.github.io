@@ -1,5 +1,5 @@
 ---
-title: '"Large-Scale Query-by-Image Video Retrieval Using Bloom Filters,"'
+title: '"Large-Scale Query-by-Image Video Retrieval Using Bloom Filters"'
 collection: publications
 authors: A. Araujo, J. Chaves, H. Lakshman, R. Angst and B. Girod
 paperurl: http://arxiv.org/abs/1604.07939
