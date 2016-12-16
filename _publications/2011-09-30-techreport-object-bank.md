@@ -1,5 +1,5 @@
 ---
-title: '"Object bank-based scene classification,"'
+title: '"Object Bank-based Scene Classification,"'
 collection: publications
 authors: A. Araujo, P. Weinzaepfel, P. Perez, C. Diot
 paperurl: /files/papers/2011-09-30-techreport-object-bank.pdf
