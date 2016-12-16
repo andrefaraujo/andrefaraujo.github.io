@@ -10,5 +10,5 @@ slideurl: /files/slides/2015-03-18-mmsys-stanfordi2v-slides.pdf
 codeurl: https://github.com/andrefaraujo/videosearch
 codename: Code
 dataseturl: https://purl.stanford.edu/zx935qw7203
-datasetname: Dataset
+datasetname: Stanford I2V Dataset
 ---
