@@ -7,4 +7,5 @@ papername: Paper
 slideurl: /files/slides/2014-03-26-dcc-interframe-revv-slides.pdf
 venue: Proc. DCC
 datename: Mar. 2014
+prizename: (Capocelli Prize for Best Student Paper)
 ---

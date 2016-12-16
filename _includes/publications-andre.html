@@ -15,6 +15,9 @@
 <li>
   <p style="COLOR: black;">
     {{ post.authors }}, {{ title }} {{ post.venue }}, {{ post.datename }}
+    {% if post.prizename %}
+      {{ post.prizename }}
+    {% endif %}
     {% if post.paperurl %}
     <u><a href="{{ post.paperurl }}">[{{ post.papername }}]</a></u>
     {% endif %}
