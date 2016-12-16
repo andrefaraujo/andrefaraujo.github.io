@@ -8,5 +8,5 @@ slideurl: /files/slides/2016-03-24-phd-thesis-slides.pdf
 videourl: https://youtu.be/tLqbdQR7kjM
 videoname: Defense
 venue: Ph.D. Thesis, Stanford University
-date: Jun. 2016
+datename: Jun. 2016
 ---

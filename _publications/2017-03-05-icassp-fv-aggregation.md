@@ -4,5 +4,5 @@ collection: publications
 authors: J.-B. Boin, A. Araujo, L. Ballan and B. Girod
 papername: Paper
 venue: Proc. ICASSP
-date: Mar. 2017 (Accepted)
+datename: Mar. 2017 (Accepted)
 ---
