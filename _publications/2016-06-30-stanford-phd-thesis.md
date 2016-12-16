@@ -1,5 +1,5 @@
 ---
-title: '"Large-Scale Video Retrieval Using Image Queries"'
+title: '"Large-Scale Video Retrieval Using Image Queries,"'
 collection: publications
 authors: A. Araujo
 paperurl: https://searchworks.stanford.edu/view/11739291
