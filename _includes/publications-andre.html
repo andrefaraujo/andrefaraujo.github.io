@@ -12,7 +12,8 @@
   {% assign title = post.title %}
 {% endif %}
 
-  <p style="COLOR: black;">
+<p style="COLOR: black;">
+  <li>
     {{ post.authors }}, {{ title }} {{ post.venue }}, {{ post.datename }}
     {% if post.prizename %}
       {{ post.prizename }}
@@ -47,4 +48,5 @@
     {% if post.codeurl %}
     <u><a href="{{ post.codeurl }}">[{{ post.codename }}]</a></u>
     {% endif %}
-  </p>
+  </li>
+</p>
