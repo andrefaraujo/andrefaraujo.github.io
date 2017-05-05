@@ -1,7 +1,7 @@
 ---
-title: '"Image Retrieval with Deep Local Features and Attention-based Keypoints,"'
+title: '"Large-Scale Image Retrieval with Attentive Deep Local Features,"'
 collection: publications
-authors: H. Noh, A. Araujo, J. Sim, B. Han
+authors: H. Noh, A. Araujo, J. Sim, T. Weyand, B. Han
 paperurl: https://arxiv.org/abs/1612.06321
 papername: Paper
 venue: arXiv:1612.06321
