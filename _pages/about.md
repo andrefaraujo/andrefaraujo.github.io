@@ -20,6 +20,7 @@ On the science outreach side, I co-founded and was an editor of [The Global Scie
 
 ## News
 
+* New paper on arXiv: M. Teichmann, A. Araujo, M. Zhu and J. Sim, ["Detect-to-Retrieve: Efficient Regional Aggregation for Image Search"](https://arxiv.org/abs/1812.01584)
 * New paper on arXiv: J.-B. Boin, A. Araujo and B. Girod, ["Recurrent Neural Networks for Person Re-identification Revisited"](https://arxiv.org/abs/1804.03281)
 * [Google Research blog post](https://research.googleblog.com/2018/03/google-landmarks-new-dataset-and.html) discussing the Google-Landmarks dataset and challenge
 * We are organizing the [Landmark Recognition Challenge](https://www.kaggle.com/c/landmark-recognition-challenge) and the [Landmark Retrieval Challenge](https://www.kaggle.com/c/landmark-retrieval-challenge), associated to the [Landmark Recognition CVPR'18 workshop](https://landmarkscvprw18.github.io). Hope you can participate!
