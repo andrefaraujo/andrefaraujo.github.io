@@ -20,7 +20,7 @@ On the science outreach side, I co-founded and was an editor of [The Global Scie
 
 ## News
 
-* CVPR'19 paper: M. Teichmann*, A. Araujo*, M. Zhu and J. Sim, ["Detect-to-Retrieve: Efficient Regional Aggregation for Image Search"](https://arxiv.org/abs/1812.01584)
+* CVPR'19 paper: M. Teichmann\*, A. Araujo\*, M. Zhu and J. Sim, ["Detect-to-Retrieve: Efficient Regional Aggregation for Image Search"](https://arxiv.org/abs/1812.01584)
 * [2nd Landmark Recognition workshop](https://landmarksworkshop.github.io/CVPRW2019/) accepted at CVPR'19. Hope you can participate in the challenge (to be released in late Mar 2019)!
 * MIPR'19 paper: J.-B. Boin, A. Araujo and B. Girod, ["Recurrent Neural Networks for Person Re-identification Revisited"](https://arxiv.org/abs/1804.03281)
 * [Google Research blog post](https://research.googleblog.com/2018/03/google-landmarks-new-dataset-and.html) discussing the Google-Landmarks dataset and challenge
