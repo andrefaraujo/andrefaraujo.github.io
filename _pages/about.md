@@ -22,7 +22,7 @@ On the science outreach side, I co-founded and was an editor of [The Global Scie
 
 * CVPR'19 paper: M. Teichmann\*, A. Araujo\*, M. Zhu and J. Sim, ["Detect-to-Retrieve: Efficient Regional Aggregation for Image Search"](https://arxiv.org/abs/1812.01584)
 * [2nd Landmark Recognition workshop](https://landmarksworkshop.github.io/CVPRW2019/) accepted at CVPR'19. Hope you can participate in the challenge (to be released in late Mar 2019)!
-* MIPR'19 paper: J.-B. Boin, A. Araujo and B. Girod, ["Recurrent Neural Networks for Person Re-identification Revisited"](https://arxiv.org/abs/1804.03281)
+* MIPR'19 paper (Best Paper Award!): J.-B. Boin, A. Araujo and B. Girod, ["Recurrent Neural Networks for Person Re-identification Revisited"](https://arxiv.org/abs/1804.03281)
 * [Google Research blog post](https://research.googleblog.com/2018/03/google-landmarks-new-dataset-and.html) discussing the Google-Landmarks dataset and challenge
 * We are organizing the [Landmark Recognition Challenge](https://www.kaggle.com/c/landmark-recognition-challenge) and the [Landmark Retrieval Challenge](https://www.kaggle.com/c/landmark-retrieval-challenge), associated to the [Landmark Recognition CVPR'18 workshop](https://landmarkscvprw18.github.io). Hope you can participate!
 * See the [DELF project webpage](https://github.com/tensorflow/models/tree/master/research/delf) for code and dataset.
