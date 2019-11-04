@@ -11,7 +11,7 @@ redirect_from:
 
 ## About
 
-I am a Software Engineer @ Google AI.
+I am a Senior Software Engineer @ Google Research.
 My current work focuses on Computer Vision, mainly on instance-level recognition/retrieval.
 I graduated with a Ph.D. from Stanford University in 2016, working on image and video retrieval, under the supervision of [Prof. Bernd Girod](http://www.stanford.edu/~bgirod).
 During my time at Stanford, I also worked on image classification and compression.
@@ -20,6 +20,8 @@ On the science outreach side, I co-founded and was an editor of [The Global Scie
 
 ## News
 
+* Distill paper: A. Araujo, W. Norris and J. Sim, ["Computing Receptive Fields of Convolutional Neural Networks"](https://distill.pub/2019/computing-receptive-fields/)
+* DELF achieved 2nd place in [CVPR Visual Localization challenge (Local Features track)](https://sites.google.com/corp/view/ltvl2019). See our slides [here](https://docs.google.com/presentation/d/e/2PACX-1vTswzoXelqFqI_pCEIVl2uazeyGr7aKNklWHQCX-CbQ7MB17gaycqIaDTguuUCRm6_lXHwCdrkP7n1x/pub?start=false&loop=false&delayms=3000).
 * CVPR'19 paper: M. Teichmann\*, A. Araujo\*, M. Zhu and J. Sim, ["Detect-to-Retrieve: Efficient Regional Aggregation for Image Search"](https://arxiv.org/abs/1812.01584)
 * [2nd Landmark Recognition workshop](https://landmarksworkshop.github.io/CVPRW2019/) accepted at CVPR'19. Hope you can participate in the challenges: [Landmark Recognition](https://kaggle.com/c/landmark-recognition-2019) and [Landmark Retrieval](https://kaggle.com/c/landmark-retrieval-2019).
 * MIPR'19 paper (Best Paper Award!): J.-B. Boin, A. Araujo and B. Girod, ["Recurrent Neural Networks for Person Re-identification Revisited"](https://arxiv.org/abs/1804.03281)
