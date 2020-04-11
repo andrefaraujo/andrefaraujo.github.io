@@ -16,11 +16,11 @@ My current work focuses on computer vision, mainly on instance-level recognition
 I graduated with a Ph.D. from Stanford University in 2016, working on image and video retrieval, under the supervision of [Prof. Bernd Girod](http://www.stanford.edu/~bgirod).
 During my time at Stanford, I also worked on image classification and compression.
 I am a [Fulbright Science & Technology Scholar](http://fulbrightscienceandtech.org/) and an [Accel Innovation Scholar](http://stvp.stanford.edu/ais/).
-On the science outreach side, I co-founded and was an editor of [The Global Scientist](https://theglobalscientist.com/) online magazine.
 
 ## News
 
-* [Jan'20] New paper available online: B. Cao\*, A. Araujo\* and J. Sim, ["Unifying Deep Local and Global Features for Efficient Image Search"](https://arxiv.org/abs/2001.05027).
+* [Apr'20] CVPR'20 paper (oral): T. Weyand\*, A. Araujo\*, B. Cao and J. Sim, ["Google Landmarks Dataset v2 - A Large-Scale Benchmark for Instance-Level Recognition and Retrieval"](https://arxiv.org/abs/2004.01804).
+* [Jan'20] New paper available online: B. Cao\*, A. Araujo\* and J. Sim, ["Unifying Deep Local and Global Features for Image Search"](https://arxiv.org/abs/2001.05027).
 * [Nov'19] Distill paper: A. Araujo, W. Norris and J. Sim, ["Computing Receptive Fields of Convolutional Neural Networks"](https://distill.pub/2019/computing-receptive-fields/)
 * [Jun'19] DELF achieved 2nd place in [CVPR Visual Localization challenge (Local Features track)](https://sites.google.com/corp/view/ltvl2019). See our slides [here](https://docs.google.com/presentation/d/e/2PACX-1vTswzoXelqFqI_pCEIVl2uazeyGr7aKNklWHQCX-CbQ7MB17gaycqIaDTguuUCRm6_lXHwCdrkP7n1x/pub?start=false&loop=false&delayms=3000).
 * [Jun'19] CVPR'19 paper: M. Teichmann\*, A. Araujo\*, M. Zhu and J. Sim, ["Detect-to-Retrieve: Efficient Regional Aggregation for Image Search"](https://arxiv.org/abs/1812.01584). Poster [here](https://andrefaraujo.github.io/files/posters/2019-06-16-d2r.pdf), code [here](https://github.com/tensorflow/models/blob/master/research/delf/delf/python/detect_to_retrieve/DETECT_TO_RETRIEVE_INSTRUCTIONS.md).
