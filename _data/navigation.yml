@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "Resume"
-    url: /resume/
+  - title: "Other"
+    url: /other/
     
   # - title: "Guide"
   #   url: /markdown/
