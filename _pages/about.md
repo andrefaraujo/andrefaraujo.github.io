@@ -19,9 +19,9 @@ I was also a [Fulbright Science & Technology Scholar](http://fulbrightscienceand
 
 ## News
 
+* [Jul'20] ECCV'20 paper: B. Cao\*, A. Araujo\* and J. Sim, ["Unifying Deep Local and Global Features for Image Search"](https://arxiv.org/abs/2001.05027).
 * [Apr'20] CVPR'20 paper (oral): T. Weyand\*, A. Araujo\*, B. Cao and J. Sim, ["Google Landmarks Dataset v2 - A Large-Scale Benchmark for Instance-Level Recognition and Retrieval"](https://arxiv.org/abs/2004.01804).
 * [Feb'20] [Instance-Level Recognition workshop](https://ilr-workshop.github.io/ECCVW2020/) accepted at ECCV'20. Hope you can participate in the challenges: [Landmark Retrieval](https://kaggle.com/c/landmark-retrieval-2020) -- others coming soon, stay tuned.
-* [Jan'20] New paper available online: B. Cao\*, A. Araujo\* and J. Sim, ["Unifying Deep Local and Global Features for Image Search"](https://arxiv.org/abs/2001.05027).
 * [Nov'19] Distill paper: A. Araujo, W. Norris and J. Sim, ["Computing Receptive Fields of Convolutional Neural Networks"](https://distill.pub/2019/computing-receptive-fields/)
 * [Jun'19] DELF achieved 2nd place in [CVPR Visual Localization challenge (Local Features track)](https://sites.google.com/corp/view/ltvl2019). See our slides [here](https://docs.google.com/presentation/d/e/2PACX-1vTswzoXelqFqI_pCEIVl2uazeyGr7aKNklWHQCX-CbQ7MB17gaycqIaDTguuUCRm6_lXHwCdrkP7n1x/pub?start=false&loop=false&delayms=3000).
 * [Jun'19] CVPR'19 paper: M. Teichmann\*, A. Araujo\*, M. Zhu and J. Sim, ["Detect-to-Retrieve: Efficient Regional Aggregation for Image Search"](https://arxiv.org/abs/1812.01584). Poster [here](https://andrefaraujo.github.io/files/posters/2019-06-16-d2r.pdf), code [here](https://github.com/tensorflow/models/blob/master/research/delf/delf/python/detect_to_retrieve/DETECT_TO_RETRIEVE_INSTRUCTIONS.md).
