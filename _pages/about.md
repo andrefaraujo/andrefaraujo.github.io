@@ -18,7 +18,7 @@ I was also a [Fulbright Science & Technology Scholar](http://fulbrightscienceand
 
 ## News
 
-* [Oct'20] I'll be giving a keynote talk at the [SUMAC workshop](https://sumac2020.ec-lyon.fr/) at ACM MM 2020. Hope to see you there!
+* [Oct'20] I gave a keynote talk at the [SUMAC workshop](https://sumac2020.ec-lyon.fr/) at ACM MM 2020, see the video recording [here](https://www.youtube.com/watch?v=9OLUCnbK9Ms).
 * [Sep'20] Check out our [Google AI blog post](https://ai.googleblog.com/2020/09/advancing-instance-level-recognition.html) featuring DELG, our open-source codebase, landmark recognition challenges and the ECCV Instance-level Recognition workshop.
 * [Jul'20] ECCV'20 paper: B. Cao\*, A. Araujo\* and J. Sim, ["Unifying Deep Local and Global Features for Image Search"](https://arxiv.org/abs/2001.05027).
 * [Apr'20] CVPR'20 paper (oral): T. Weyand\*, A. Araujo\*, B. Cao and J. Sim, ["Google Landmarks Dataset v2 - A Large-Scale Benchmark for Instance-Level Recognition and Retrieval"](https://arxiv.org/abs/2004.01804).
