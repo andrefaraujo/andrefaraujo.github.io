@@ -12,8 +12,8 @@ redirect_from:
 Based on my availabilty, I help out with peer reviewing for conferences and
 journals. Some of them are mentioned below:
 
-* Conferences: CVPR, ECCV, DCC
-* Journals: IJCV, CVIU, IEEE TIP, IEEE TCSVT, IEEE TMM
+* Conferences: CVPR, ICCV, ECCV, DCC
+* Journals: IJCV, CVIU, TIP, Machine Learning, TCSVT, TMM
 
 ## Paper awards
 
