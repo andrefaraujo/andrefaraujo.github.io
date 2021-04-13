@@ -24,3 +24,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap', :github => 'jekyll/jekyll-sitemap', :branch => 'master'
 end
+
+gem "webrick", "~> 1.7"
