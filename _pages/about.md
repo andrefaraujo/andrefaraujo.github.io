@@ -18,6 +18,7 @@ I was also a [Fulbright Science & Technology Scholar](http://fulbrightscienceand
 
 ## News
 
+* [May'21] [Instance-Level Recognition 2021 workshop](https://ilr-workshop.github.io/ICCVW2021/) accepted at ICCV'21. We'll have some exciting new developments this year -- stay tuned!
 * [Apr'21] New paper up on arXiv: A. Iscen, A. Araujo, B. Gong and C. Schmid, ["Class-Balanced Distillation for Long-Tailed Visual Recognition"](https://arxiv.org/abs/2104.05279).
 * [Oct'20] I gave a keynote talk at the [SUMAC workshop](https://sumac2020.ec-lyon.fr/) at ACM MM 2020, see the video recording [here](https://www.youtube.com/watch?v=9OLUCnbK9Ms).
 * [Sep'20] Check out our [Google AI blog post](https://ai.googleblog.com/2020/09/advancing-instance-level-recognition.html) featuring DELG, our open-source codebase, landmark recognition challenges and the ECCV Instance-level Recognition workshop.
