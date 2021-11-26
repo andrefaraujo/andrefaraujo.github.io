@@ -11,15 +11,16 @@ redirect_from:
 
 ## About
 
-I am a Senior Software Engineer @ Google Research.
+I am a Staff Software Engineer @ Google Research.
 My current work focuses on computer vision, mainly on instance-level recognition/retrieval.
 I graduated with a Ph.D. from Stanford University in 2016, working on image and video retrieval, under the supervision of [Prof. Bernd Girod](http://www.stanford.edu/~bgirod).
 I was also a [Fulbright Science & Technology Scholar](http://fulbrightscienceandtech.org/) and an [Accel Innovation Scholar](http://stvp.stanford.edu/ais/).
 
 ## News
 
+* [Oct'21] BMVC'21 paper: A. Iscen, A. Araujo, B. Gong and C. Schmid, ["Class-Balanced Distillation for Long-Tailed Visual Recognition"](https://arxiv.org/abs/2104.05279).
+* [Aug'21] New paper up on arXiv: Z. Kim, A. Araujo, B. Cao, C. Askew, J. Sim, M. Green, N. F. Tilla and T. Weyand, ["Towards A Fairer Landmark Recognition Dataset"](https://arxiv.org/abs/2108.08874v1).
 * [May'21] [Instance-Level Recognition 2021 workshop](https://ilr-workshop.github.io/ICCVW2021/) accepted at ICCV'21. We'll have some exciting new developments this year -- stay tuned!
-* [Apr'21] New paper up on arXiv: A. Iscen, A. Araujo, B. Gong and C. Schmid, ["Class-Balanced Distillation for Long-Tailed Visual Recognition"](https://arxiv.org/abs/2104.05279).
 * [Oct'20] I gave a keynote talk at the [SUMAC workshop](https://sumac2020.ec-lyon.fr/) at ACM MM 2020, see the video recording [here](https://www.youtube.com/watch?v=9OLUCnbK9Ms).
 * [Sep'20] Check out our [Google AI blog post](https://ai.googleblog.com/2020/09/advancing-instance-level-recognition.html) featuring DELG, our open-source codebase, landmark recognition challenges and the ECCV Instance-level Recognition workshop.
 * [Jul'20] ECCV'20 paper: B. Cao\*, A. Araujo\* and J. Sim, ["Unifying Deep Local and Global Features for Image Search"](https://arxiv.org/abs/2001.05027).

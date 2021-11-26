@@ -12,7 +12,7 @@ redirect_from:
 Based on my availabilty, I help out with peer reviewing for conferences and
 journals. Some of them are mentioned below:
 
-* Conferences: CVPR, ICCV, ECCV, DCC
+* Conferences: CVPR, ICCV, ECCV, ICLR, DCC
 * Journals: IJCV, CVIU, TIP, Machine Learning, TCSVT, TMM
 
 ## Paper awards
