@@ -7,12 +7,14 @@ redirect_from:
   - /wordpress/cv/
 ---
 
-## Service as peer reviewer
+## Academic service
 
-Based on my availabilty, I help out with peer reviewing for conferences and
+I will serve as Area Chair for WACV'2023.
+
+Based on my availabilty, I also help out with peer reviewing for conferences and
 journals. Some of them are mentioned below:
 
-* Conferences: CVPR, ICCV, ECCV, ICLR, DCC
+* Conferences: CVPR, ICCV, ECCV, NeurIPS, ICLR, DCC
 * Journals: IJCV, CVIU, TIP, Machine Learning, TCSVT, TMM
 
 ## Paper awards

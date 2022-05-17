@@ -11,13 +11,15 @@ redirect_from:
 
 ## About
 
-I am a Staff Software Engineer @ Google Research.
+I am a Staff Software Engineer / Tech Lead Manager @ Google Research.
 My current work focuses on computer vision, mainly on instance-level recognition/retrieval.
-I graduated with a Ph.D. from Stanford University in 2016, working on image and video retrieval, under the supervision of [Prof. Bernd Girod](http://www.stanford.edu/~bgirod).
+I graduated with a Ph.D. from Stanford University in 2016, under the supervision of [Prof. Bernd Girod](http://www.stanford.edu/~bgirod).
 I was also a [Fulbright Science & Technology Scholar](http://fulbrightscienceandtech.org/) and an [Accel Innovation Scholar](http://stvp.stanford.edu/ais/).
 
 ## News
 
+* [Mar'22] [Instance-Level Recognition 2022 workshop](https://ilr-workshop.github.io/ECCVW2022/) accepted at ECCV'22, with new upcoming exciting challenges on universal image embeddings and language-assisted product retrieval.
+* [Jan'22] Our [DELF](https://arxiv.org/abs/1612.06321)/[DELG](https://arxiv.org/abs/2001.05027)/[Receptive-field](https://distill.pub/2019/computing-receptive-fields/) papers and [instance-level recognition workshop](https://ilr-workshop.github.io/ECCVW2022/) were cited in Prof. Szeliski's new [computer vision textbook version](http://szeliski.org/Book/).
 * [Oct'21] BMVC'21 paper: A. Iscen, A. Araujo, B. Gong and C. Schmid, ["Class-Balanced Distillation for Long-Tailed Visual Recognition"](https://arxiv.org/abs/2104.05279).
 * [Aug'21] New paper up on arXiv: Z. Kim, A. Araujo, B. Cao, C. Askew, J. Sim, M. Green, N. F. Tilla and T. Weyand, ["Towards A Fairer Landmark Recognition Dataset"](https://arxiv.org/abs/2108.08874v1).
 * [May'21] [Instance-Level Recognition 2021 workshop](https://ilr-workshop.github.io/ICCVW2021/) accepted at ICCV'21, see landmark [retrieval](https://www.kaggle.com/c/landmark-retrieval-2021) and [recognition](https://www.kaggle.com/c/landmark-recognition-2021) challenges.
