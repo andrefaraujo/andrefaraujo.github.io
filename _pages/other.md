@@ -19,7 +19,7 @@ journals. Some of them are mentioned below:
 
 ## Paper awards
 
-* Best paper -IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR), 2019
+* Best paper - IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR), 2019
 * Best student paper - Data Compression Conference (DCC), 2014
 
 ## Fellowships / Scholarships
