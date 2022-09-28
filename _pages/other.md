@@ -9,7 +9,7 @@ redirect_from:
 
 ## Academic service
 
-I will serve as Area Chair for WACV'2023.
+Area Chair: CVPR'2023, AAAI'23, WACV'23.
 
 Based on my availabilty, I also help out with peer reviewing for conferences and
 journals. Some of them are mentioned below:
