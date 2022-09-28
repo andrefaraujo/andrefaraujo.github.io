@@ -18,6 +18,7 @@ I was also a [Fulbright Science & Technology Scholar](http://fulbrightscienceand
 
 ## News
 
+* [Jul'22] [Universal Embedding Challenge](https://www.kaggle.com/c/google-universal-image-embedding/) launched! We welcome everyone's participation! See also the [Google AI blog post](https://ai.googleblog.com/2022/08/introducing-google-universal-image.html).
 * [Mar'22] [Instance-Level Recognition 2022 workshop](https://ilr-workshop.github.io/ECCVW2022/) accepted at ECCV'22, with new upcoming exciting challenges on universal image embeddings and language-assisted product retrieval.
 * [Jan'22] Our [DELF](https://arxiv.org/abs/1612.06321)/[DELG](https://arxiv.org/abs/2001.05027)/[Receptive-field](https://distill.pub/2019/computing-receptive-fields/) papers and [instance-level recognition workshop](https://ilr-workshop.github.io/ECCVW2022/) were cited in Prof. Szeliski's new [computer vision textbook version](http://szeliski.org/Book/).
 * [Oct'21] BMVC'21 paper: A. Iscen, A. Araujo, B. Gong and C. Schmid, ["Class-Balanced Distillation for Long-Tailed Visual Recognition"](https://arxiv.org/abs/2104.05279).
