@@ -12,14 +12,17 @@ redirect_from:
 ## About
 
 I am a Staff Software Engineer / Tech Lead Manager @ Google Research.
-My current work focuses on computer vision, mainly on instance-level recognition/retrieval.
+My current work focuses on computer vision and machine learning.
 I graduated with a Ph.D. from Stanford University in 2016, under the supervision of [Prof. Bernd Girod](http://www.stanford.edu/~bgirod).
 I was also a [Fulbright Science & Technology Scholar](http://fulbrightscienceandtech.org/) and an [Accel Innovation Scholar](http://stvp.stanford.edu/ais/).
 
 ## News
 
+* [Mar'23] New paper up on arXiv: A. Karpur, G. Perrotta, R. Martin-Brualla, H. Zhou, A. Araujo, ["LFM-3D: Learnable Feature Matching Across Wide Baselines Using 3D Signals"](https://arxiv.org/abs/2303.12779)
+* [Feb'23] CVPR'23 paper: G. Potje, F. Cadar, A. Araujo, R. Martins, E. Nascimento, ["Enhancing Deformable Local Features by Jointly Learning
+to Detect and Describe Keypoints"](https://www.verlab.dcc.ufmg.br/descriptors/dalf_cvpr23/)
 * [Jul'22] [Universal Embedding Challenge](https://www.kaggle.com/c/google-universal-image-embedding/) launched! We welcome everyone's participation! See also the [Google AI blog post](https://ai.googleblog.com/2022/08/introducing-google-universal-image.html).
-* [Mar'22] [Instance-Level Recognition 2022 workshop](https://ilr-workshop.github.io/ECCVW2022/) accepted at ECCV'22, with new upcoming exciting challenges on universal image embeddings and language-assisted product retrieval.
+* [Mar'22] [Instance-Level Recognition 2022 workshop](https://ilr-workshop.github.io/ECCVW2022/) accepted at ECCV'22, with new upcoming exciting challenges on universal image embeddings and language-assisted product retrieval. Feb'23 update: all workshop recordings are on the website!
 * [Jan'22] Our [DELF](https://arxiv.org/abs/1612.06321)/[DELG](https://arxiv.org/abs/2001.05027)/[Receptive-field](https://distill.pub/2019/computing-receptive-fields/) papers and [instance-level recognition workshop](https://ilr-workshop.github.io/ECCVW2022/) were cited in Prof. Szeliski's new [computer vision textbook version](http://szeliski.org/Book/).
 * [Oct'21] BMVC'21 paper: A. Iscen, A. Araujo, B. Gong and C. Schmid, ["Class-Balanced Distillation for Long-Tailed Visual Recognition"](https://arxiv.org/abs/2104.05279).
 * [Aug'21] New paper up on arXiv: Z. Kim, A. Araujo, B. Cao, C. Askew, J. Sim, M. Green, N. F. Tilla and T. Weyand, ["Towards A Fairer Landmark Recognition Dataset"](https://arxiv.org/abs/2108.08874v1).

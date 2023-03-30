@@ -9,12 +9,14 @@ redirect_from:
 
 ## Academic service
 
-Area Chair: CVPR'23, AAAI'23, WACV'23.
+Area Chair: CVPR'23, WACV'23.
+
+Senior Program Committe member: AAAI'23.
 
 Based on my availabilty, I also help out with peer reviewing for conferences and
 journals. Some of them are mentioned below:
 
-* Conferences: CVPR, ICCV, ECCV, NeurIPS, ICLR, DCC
+* Conferences: CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, DCC
 * Journals: IJCV, CVIU, TIP, Machine Learning, TCSVT, TMM
 
 ## Paper awards
