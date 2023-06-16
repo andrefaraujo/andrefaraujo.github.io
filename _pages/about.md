@@ -18,6 +18,10 @@ I was also a [Fulbright Science & Technology Scholar](https://eca.state.gov/fulb
 
 ## News
 
+* [Jun'23] Three new papers up on arXiv:
+  * D. Aiger, A. Araujo, S. Lynen, ["Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization"](https://arxiv.org/abs/2306.09012)
+  * T. Mensink*, J. Uijlings*, L. Castrejon, A. Goel, F. Cadar, H. Zhou, F. Sha, A. Araujo, V. Ferrari, ["Encyclopedic VQA: Visual questions about detailed properties of fine-grained categories"](https://arxiv.org/abs/2306.09224)
+  * V. Jampani*, K. Maninis*, A. Engelhardt, A. Karpur, K. Truong, K. Sargent, S. Popov, A. Araujo, R. Martin-Brualla, K. Patel, D. Vlasic, V. Ferrari, A. Makadia, C. Liu, Y. Li, H. Zhou, ["NAVI: Category-Agnostic Image Collections with High-Quality 3D Shape and Pose Annotations"](https://arxiv.org/abs/2306.09109)  
 * [Mar'23] New paper up on arXiv: A. Karpur, G. Perrotta, R. Martin-Brualla, H. Zhou, A. Araujo, ["LFM-3D: Learnable Feature Matching Across Wide Baselines Using 3D Signals"](https://arxiv.org/abs/2303.12779)
 * [Feb'23] CVPR'23 paper: G. Potje, F. Cadar, A. Araujo, R. Martins, E. Nascimento, ["Enhancing Deformable Local Features by Jointly Learning to Detect and Describe Keypoints"](https://arxiv.org/abs/2304.00583). See also [project page](https://www.verlab.dcc.ufmg.br/descriptors/dalf_cvpr23/)
 * [Jul'22] [Universal Embedding Challenge](https://www.kaggle.com/c/google-universal-image-embedding/) launched! We welcome everyone's participation! See also the [Google AI blog post](https://ai.googleblog.com/2022/08/introducing-google-universal-image.html).
