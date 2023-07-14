@@ -18,12 +18,15 @@ I was also a [Fulbright Science & Technology Scholar](https://eca.state.gov/fulb
 
 ## News
 
+* [Jul'23] 4 papers accepted at ICCV'23! [Encyclopedic-VQA](https://arxiv.org/abs/2306.09224), [CANN](https://arxiv.org/abs/2306.09012), Universal Embeddings and SuperGlobal (the latter two will be released soon, stay tuned).
+* [Jul'23] I will serve as Area Chair for CVPR'24.
 * [Jun'23] Three new papers up on arXiv:
   * D. Aiger, A. Araujo, S. Lynen, ["Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization"](https://arxiv.org/abs/2306.09012)
   * T. Mensink\*, J. Uijlings\*, L. Castrejon, A. Goel, F. Cadar, H. Zhou, F. Sha, A. Araujo, V. Ferrari, ["Encyclopedic VQA: Visual questions about detailed properties of fine-grained categories"](https://arxiv.org/abs/2306.09224)
   * V. Jampani\*, K. Maninis\*, A. Engelhardt, A. Karpur, K. Truong, K. Sargent, S. Popov, A. Araujo, R. Martin-Brualla, K. Patel, D. Vlasic, V. Ferrari, A. Makadia, C. Liu, Y. Li, H. Zhou, ["NAVI: Category-Agnostic Image Collections with High-Quality 3D Shape and Pose Annotations"](https://arxiv.org/abs/2306.09109)  
 * [Mar'23] New paper up on arXiv: A. Karpur, G. Perrotta, R. Martin-Brualla, H. Zhou, A. Araujo, ["LFM-3D: Learnable Feature Matching Across Wide Baselines Using 3D Signals"](https://arxiv.org/abs/2303.12779)
 * [Feb'23] CVPR'23 paper: G. Potje, F. Cadar, A. Araujo, R. Martins, E. Nascimento, ["Enhancing Deformable Local Features by Jointly Learning to Detect and Describe Keypoints"](https://arxiv.org/abs/2304.00583). See also [project page](https://www.verlab.dcc.ufmg.br/descriptors/dalf_cvpr23/)
+* [Sep'22] I will serve as Area Chair for CVPR'23.
 * [Jul'22] [Universal Embedding Challenge](https://www.kaggle.com/c/google-universal-image-embedding/) launched! We welcome everyone's participation! See also the [Google AI blog post](https://ai.googleblog.com/2022/08/introducing-google-universal-image.html).
 * [Mar'22] [Instance-Level Recognition 2022 workshop](https://ilr-workshop.github.io/ECCVW2022/) accepted at ECCV'22, with new upcoming exciting challenges on universal image embeddings and language-assisted product retrieval. Feb'23 update: all workshop recordings are on the website!
 * [Jan'22] Our [DELF](https://arxiv.org/abs/1612.06321)/[DELG](https://arxiv.org/abs/2001.05027)/[Receptive-field](https://distill.pub/2019/computing-receptive-fields/) papers and [instance-level recognition workshop](https://ilr-workshop.github.io/ECCVW2022/) were cited in Prof. Szeliski's new [computer vision textbook version](http://szeliski.org/Book/).
