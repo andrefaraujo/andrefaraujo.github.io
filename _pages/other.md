@@ -9,7 +9,7 @@ redirect_from:
 
 ## Academic service
 
-Area Chair: CVPR'23, WACV'23.
+Area Chair: CVPR'24, CVPR'23, WACV'23.
 
 Senior Program Committe member: AAAI'23.
 

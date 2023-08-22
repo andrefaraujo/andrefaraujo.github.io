@@ -18,7 +18,7 @@ I was also a [Fulbright Science & Technology Scholar](https://eca.state.gov/fulb
 
 ## News
 
-* [Jul'23] 4 papers accepted at ICCV'23! [Encyclopedic-VQA](https://arxiv.org/abs/2306.09224), [CANN](https://arxiv.org/abs/2306.09012), Universal Embeddings and SuperGlobal (the latter two will be released soon, stay tuned).
+* [Jul'23] 4 papers accepted at ICCV'23! [Encyclopedic-VQA](https://arxiv.org/abs/2306.09224), [CANN](https://arxiv.org/abs/2306.09012), [SuperGlobal](https://arxiv.org/abs/2308.06954) and Universal Embeddings (to be released soon, stay tuned).
 * [Jul'23] I will serve as Area Chair for CVPR'24.
 * [Jun'23] Three new papers up on arXiv:
   * D. Aiger, A. Araujo, S. Lynen, ["Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization"](https://arxiv.org/abs/2306.09012)
