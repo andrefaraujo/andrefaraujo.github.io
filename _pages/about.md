@@ -18,11 +18,14 @@ I was also a [Fulbright Science & Technology Scholar](https://eca.state.gov/fulb
 
 ## News
 
-* [Jul'23] 4 papers accepted at ICCV'23! [Encyclopedic-VQA](https://arxiv.org/abs/2306.09224), [CANN](https://arxiv.org/abs/2306.09012), [SuperGlobal](https://arxiv.org/abs/2308.06954) and Universal Embeddings (to be released soon, stay tuned).
+* [Sep'23] 4 papers accepted at ICCV'23! [Encyclopedic-VQA](https://arxiv.org/abs/2306.09224), [CANN](https://arxiv.org/abs/2306.09012), [SuperGlobal](https://arxiv.org/abs/2308.06954) and [Universal Embeddings](https://arxiv.org/abs/2309.01858).
+* [Sep'23] Two new papers up on arXiv:
+  * S. Shao\*, K. Chen, A. Karpur, Q. Cui, A. Araujo, B. Cao\*, ["Global Features are All You Need for Image Retrieval and Reranking"](https://arxiv.org/abs/2308.06954) (ICCV'23)
+  * N. Ypsilantis, K. Chen, B. Cao, M. Lipovský, P. Dogan-Schönberger, G. Makosa, B. Bluntschli, M. Seyedhosseini, O. Chum, A. Araujo, ["Towards Universal Image Embeddings: A Large-Scale Dataset and Challenge for Generic Image Representations"](https://arxiv.org/abs/2309.01858) (ICCV'23)
 * [Jul'23] I will serve as Area Chair for CVPR'24.
 * [Jun'23] Three new papers up on arXiv:
-  * D. Aiger, A. Araujo, S. Lynen, ["Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization"](https://arxiv.org/abs/2306.09012)
-  * T. Mensink\*, J. Uijlings\*, L. Castrejon, A. Goel, F. Cadar, H. Zhou, F. Sha, A. Araujo, V. Ferrari, ["Encyclopedic VQA: Visual questions about detailed properties of fine-grained categories"](https://arxiv.org/abs/2306.09224)
+  * D. Aiger, A. Araujo, S. Lynen, ["Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization"](https://arxiv.org/abs/2306.09012) (ICCV'23)
+  * T. Mensink\*, J. Uijlings\*, L. Castrejon, A. Goel, F. Cadar, H. Zhou, F. Sha, A. Araujo, V. Ferrari, ["Encyclopedic VQA: Visual questions about detailed properties of fine-grained categories"](https://arxiv.org/abs/2306.09224) (ICCV'23)
   * V. Jampani\*, K. Maninis\*, A. Engelhardt, A. Karpur, K. Truong, K. Sargent, S. Popov, A. Araujo, R. Martin-Brualla, K. Patel, D. Vlasic, V. Ferrari, A. Makadia, C. Liu, Y. Li, H. Zhou, ["NAVI: Category-Agnostic Image Collections with High-Quality 3D Shape and Pose Annotations"](https://arxiv.org/abs/2306.09109)  
 * [Mar'23] New paper up on arXiv: A. Karpur, G. Perrotta, R. Martin-Brualla, H. Zhou, A. Araujo, ["LFM-3D: Learnable Feature Matching Across Wide Baselines Using 3D Signals"](https://arxiv.org/abs/2303.12779)
 * [Feb'23] CVPR'23 paper: G. Potje, F. Cadar, A. Araujo, R. Martins, E. Nascimento, ["Enhancing Deformable Local Features by Jointly Learning to Detect and Describe Keypoints"](https://arxiv.org/abs/2304.00583). See also [project page](https://www.verlab.dcc.ufmg.br/descriptors/dalf_cvpr23/)
