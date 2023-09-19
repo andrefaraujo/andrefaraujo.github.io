@@ -19,9 +19,10 @@ I was also a [Fulbright Science & Technology Scholar](https://eca.state.gov/fulb
 ## News
 
 * [Sep'23] 4 papers accepted at ICCV'23! [Encyclopedic-VQA](https://arxiv.org/abs/2306.09224), [CANN](https://arxiv.org/abs/2306.09012), [SuperGlobal](https://arxiv.org/abs/2308.06954) and [Universal Embeddings](https://arxiv.org/abs/2309.01858).
-* [Sep'23] Two new papers up on arXiv:
+* [Sep'23] Three new papers up on arXiv:
   * S. Shao\*, K. Chen, A. Karpur, Q. Cui, A. Araujo, B. Cao\*, ["Global Features are All You Need for Image Retrieval and Reranking"](https://arxiv.org/abs/2308.06954) (ICCV'23)
   * N. Ypsilantis, K. Chen, B. Cao, M. Lipovský, P. Dogan-Schönberger, G. Makosa, B. Bluntschli, M. Seyedhosseini, O. Chum, A. Araujo, ["Towards Universal Image Embeddings: A Large-Scale Dataset and Challenge for Generic Image Representations"](https://arxiv.org/abs/2309.01858) (ICCV'23)
+  * E. Ramzi, N. Audebert, C. Rambour, A. Araujo, X. Bitot, N. Thome, ["Optimization of Rank Losses for Image Retrieval"](https://arxiv.org/abs/2309.08250)
 * [Jul'23] I will serve as Area Chair for CVPR'24.
 * [Jun'23] Three new papers up on arXiv:
   * D. Aiger, A. Araujo, S. Lynen, ["Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization"](https://arxiv.org/abs/2306.09012) (ICCV'23)
