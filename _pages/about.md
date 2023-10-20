@@ -18,6 +18,7 @@ I was also a [Fulbright Science & Technology Scholar](https://eca.state.gov/fulb
 
 ## News
 
+* [Oct'23] New papers accepted: [NAVI](https://arxiv.org/abs/2306.09109) in NeurIPS'23 and [LFM-3D](https://arxiv.org/abs/2303.12779) in 3DV'24!
 * [Sep'23] 4 papers accepted at ICCV'23! [Encyclopedic-VQA](https://arxiv.org/abs/2306.09224), [CANN](https://arxiv.org/abs/2306.09012), [SuperGlobal](https://arxiv.org/abs/2308.06954) and [Universal Embeddings](https://arxiv.org/abs/2309.01858).
 * [Sep'23] Three new papers up on arXiv:
   * S. Shao\*, K. Chen, A. Karpur, Q. Cui, A. Araujo, B. Cao\*, ["Global Features are All You Need for Image Retrieval and Reranking"](https://arxiv.org/abs/2308.06954) (ICCV'23)
