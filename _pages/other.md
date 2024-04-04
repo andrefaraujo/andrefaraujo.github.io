@@ -17,7 +17,7 @@ Based on my availabilty, I also help out with peer reviewing for conferences and
 journals. Some of them are mentioned below:
 
 * Conferences: CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, DCC
-* Journals: IJCV, CVIU, TIP, Machine Learning, TCSVT, TMM
+* Journals: TPAMI, IJCV, CVIU, TIP, Machine Learning, TCSVT, TMM
 
 ## Paper awards
 
