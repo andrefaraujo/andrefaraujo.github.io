@@ -18,8 +18,9 @@ I was also a [Fulbright Science & Technology Scholar](https://eca.state.gov/fulb
 
 ## News
 
+* [May'24] New CVPR'24 paper up on arXiv: G. Potje, F. Cadar, A. Araujo, R. Martins, E. Nascimento, ["XFeat: Accelerated Features for Lightweight Image Matching"](https://arxiv.org/abs/2404.19174)
 * [Apr'24] New paper up on arXiv: L. Castrejon, T. Mensink, H. Zhou, V. Ferrari, A. Araujo, J. Uijlings, ["HAMMR: HierArchical MultiModal React agents for generic VQA"](https://arxiv.org/abs/2404.05465)
-* [Feb'24] 2 papers accepted at CVPR'24! OmniGlue and Xfeat -- stay tuned for the releases, coming up soon!
+* [Feb'24] 2 papers accepted at CVPR'24! OmniGlue and [Xfeat](https://arxiv.org/abs/2404.19174) -- stay tuned for the OmniGlue release, coming up soon!
 * [Nov'23] I will serve as Area Chair for ECCV'24.
 * [Oct'23] New papers accepted: [NAVI](https://arxiv.org/abs/2306.09109) in NeurIPS'23 and [LFM-3D](https://arxiv.org/abs/2303.12779) as an oral in 3DV'24!
 * [Oct'23] New [post on the Google Brazil blog](https://blog.google/intl/pt-br/como-nossa-pesquisa-em-ia-esta-ajudando-com-grandes-desafios-da-sociedade/) about recent AI research from Google (in Portuguese).
