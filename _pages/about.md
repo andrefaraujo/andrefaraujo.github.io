@@ -18,6 +18,7 @@ I was also a [Fulbright Science & Technology Scholar](https://eca.state.gov/fulb
 
 ## News
 
+* [Jun'24] New paper up on arXiv: N. Ypsilantis, K. Chen, A. Araujo, O. Chum, ["UDON: Universal Dynamic Online distillatioN for generic image representations"](https://arxiv.org/abs/2406.08332)
 * [Jun'24] The [Instance-Level Recognition workshop](https://ilr-workshop.github.io/ECCVW2024/) is back at ECCV'24! And for the first time in 6 editions, with a call for papers. We look forward to your submissions!
 * [May'24] Our two CVPR'24 papers are now on arXiv:
   * H. Jiang, A. Karpur, B. Cao, Q. Huang, A. Araujo, ["OmniGlue: Generalizable Feature Matching with Foundation Model Guidance"](https://arxiv.org/abs/2405.12979)
