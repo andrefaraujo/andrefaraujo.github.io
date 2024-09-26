@@ -9,7 +9,7 @@ redirect_from:
 
 ## Academic service
 
-Area Chair: CVPR ('24, '23), NeurIPS'24, ECCV'24, WACV'23.
+Area Chair: CVPR ('25, '24, '23), NeurIPS'24, ECCV'24, WACV'23.
 
 Senior Program Committe member: AAAI'23.
 
