@@ -18,6 +18,7 @@ I was also a [Fulbright Science & Technology Scholar](https://eca.state.gov/fulb
 
 ## News
 
+* [Oct'24] New paper up on arXiv: K. Maninis\*, K. Chen\*, S. Ghosh\*, A. Karpur\*, K. Chen, Y. Xia, B. Cao, D. Salz, G. Han, J. Dlabal, D. Gnanapragasam, M. Seyedhosseini, H. Zhou, A. Araujo, ["TIPS: Text-Image Pretraining with Spatial awareness"](https://arxiv.org/abs/2410.16512)
 * [Sep'24] Our [UDON](https://arxiv.org/abs/2406.08332) paper is now accepted into NeurIPS'24!
 * [Sep'24] I will serve as Area Chair for CVPR'25.
 * [Jun'24] New paper up on arXiv: N. Ypsilantis, K. Chen, A. Araujo, O. Chum, ["UDON: Universal Dynamic Online distillatioN for generic image representations"](https://arxiv.org/abs/2406.08332)
