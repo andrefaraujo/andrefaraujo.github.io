@@ -11,9 +11,9 @@ redirect_from:
 
 ## About
 
-I am a Staff Research Scientist / Tech Lead Manager @ Google DeepMind.
+I am a Senior Staff Research Scientist / Tech Lead Manager @ Google DeepMind.
 My current work focuses on computer vision and machine learning.
-I graduated with a Ph.D. from Stanford University in 2016, under the supervision of [Prof. Bernd Girod](http://www.stanford.edu/~bgirod).
+I graduated with a Ph.D. from Stanford University in 2016.
 I was also a [Fulbright Science & Technology Scholar](https://eca.state.gov/fulbright/fulbright-programs/program-summaries/international-fulbright-science-technology-award) and an [Accel Leadership Scholar](http://stvp.stanford.edu/alp/).
 
 ## News
