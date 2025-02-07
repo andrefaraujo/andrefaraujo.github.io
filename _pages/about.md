@@ -14,10 +14,11 @@ redirect_from:
 I am a Senior Staff Research Scientist / Tech Lead Manager @ Google DeepMind.
 My current work focuses on computer vision and machine learning.
 I graduated with a Ph.D. from Stanford University in 2016.
-I was also a [Fulbright Science & Technology Scholar](https://eca.state.gov/fulbright/fulbright-programs/program-summaries/international-fulbright-science-technology-award) and an [Accel Leadership Scholar](http://stvp.stanford.edu/alp/).
+I am a Senior Member of the IEEE, and was previously also a [Fulbright Science & Technology Scholar](https://eca.state.gov/fulbright/fulbright-programs/program-summaries/international-fulbright-science-technology-award) and an [Accel Leadership Scholar](http://stvp.stanford.edu/alp/).
 
 ## News
 
+* [Feb'25] Our [paper on rank losses for image retrieval](https://arxiv.org/abs/2309.08250) is now accepted into TPAMI!
 * [Jan'25] Our [TIPS](https://arxiv.org/abs/2410.16512) paper is now accepted into ICLR'25!
 * [Oct'24] New paper up on arXiv: K. Maninis\*, K. Chen\*, S. Ghosh\*, A. Karpur\*, K. Chen, Y. Xia, B. Cao, D. Salz, G. Han, J. Dlabal, D. Gnanapragasam, M. Seyedhosseini, H. Zhou, A. Araujo, ["TIPS: Text-Image Pretraining with Spatial awareness"](https://arxiv.org/abs/2410.16512)
 * [Sep'24] Our [UDON](https://arxiv.org/abs/2406.08332) paper is now accepted into NeurIPS'24!
