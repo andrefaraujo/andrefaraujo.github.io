@@ -18,6 +18,7 @@ I am a Senior Member of the IEEE, and was previously also a [Fulbright Science &
 
 ## News
 
+* [Feb'25] CVPR'25 paper: T. Novello\*, D. Aldana\*, A. Araujo, L. Velho, ["Tuning the Frequencies: Robust Training for Sinusoidal Neural Networks"](https://arxiv.org/abs/2407.21121).
 * [Feb'25] Our [paper on rank losses for image retrieval](https://arxiv.org/abs/2309.08250) is now accepted into TPAMI!
 * [Jan'25] Our [TIPS](https://arxiv.org/abs/2410.16512) paper is now accepted into ICLR'25!
 * [Dec'24] I will serve as Area Chair for ICCV'25 (Lead AC role).
