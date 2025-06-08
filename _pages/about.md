@@ -20,6 +20,7 @@ I am a Senior Member of the IEEE, and was previously also a [Fulbright Science &
 
 * [Jun'25] I'm giving a talk at the [CVPR'25 BEAM workshop](https://beam-workshop2025.github.io/), entitled *"What's missing in multimodal AI? Towards spatial awareness, effective tool use and fine-grained understanding"*.
 * [Mar'25] I will serve as Area Chair for NeurIPS'25.
+* [Mar'25] New paper up on arXiv: L. Xie, J. Guo, O. Cakmakci, A. Araujo, L. A. Jeni, Z. Jia, ["AlignDiff: Learning Physically-Grounded Camera Alignment via Diffusion"](https://arxiv.org/abs/2503.21581)
 * [Feb'25] CVPR'25 **highlight** paper: T. Novello\*, D. Aldana\*, A. Araujo, L. Velho, ["Tuning the Frequencies: Robust Training for Sinusoidal Neural Networks"](https://arxiv.org/abs/2407.21121).
 * [Feb'25] Our [paper on rank losses for image retrieval](https://arxiv.org/abs/2309.08250) is now accepted into TPAMI!
 * [Jan'25] Our [TIPS](https://arxiv.org/abs/2410.16512) paper is now accepted into ICLR'25!
