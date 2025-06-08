@@ -19,6 +19,10 @@ journals. Some of them are mentioned below:
 * Conferences: CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, DCC
 * Journals: TPAMI, IJCV, CVIU, TIP, Machine Learning, TCSVT, TMM
 
+## Students
+
+Former Google interns I (co-)hosted: [Hanwen Jiang](https://hwjiang1510.github.io/) (UT Austin), Guilherme Perrotta (Google DeepMind), [Felipe Cadar](https://eucadar.com/) (UFMG/Universite Bourgogne), [Joao Cardenuto](https://scholar.google.com/citations?user=sEKE5nMAAAAJ) (Unicamp), [Taihong Xiao](https://prinsphield.github.io/) (Google DeepMind), [Arun Mukundan](https://scholar.google.com/citations?user=co2dwSoAAAAJ) (University of Amsterdam), [Marvin Teichmann](https://scholar.google.de/citations?user=I-ztKQsAAAAJ) (Siemens), [Jean-Baptiste Boin](https://jbboin.github.io/) (Anthropic), [Hyeonwoo Noh](https://hyeonwoonoh.github.io/) (OpenAI).
+
 ## Paper awards
 
 * Best paper - IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR), 2019
