@@ -18,6 +18,7 @@ I am a Senior Member of the IEEE, and was previously also a [Fulbright Science &
 
 ## News
 
+* [Jun'25] I'm giving a talk at the [CVPR'25 BEAM workshop](https://beam-workshop2025.github.io/), entitled "What's missing in multimodal AI? Towards spatial awareness, effective tool use and fine-grained understanding".
 * [Mar'25] I will serve as Area Chair for NeurIPS'25.
 * [Feb'25] CVPR'25 **highlight** paper: T. Novello\*, D. Aldana\*, A. Araujo, L. Velho, ["Tuning the Frequencies: Robust Training for Sinusoidal Neural Networks"](https://arxiv.org/abs/2407.21121).
 * [Feb'25] Our [paper on rank losses for image retrieval](https://arxiv.org/abs/2309.08250) is now accepted into TPAMI!
