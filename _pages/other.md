@@ -25,7 +25,7 @@ I have been lucky to collaborate with amazing students and research labs. Depend
 
 Former Google interns I hosted/co-hosted: [Hanwen Jiang](https://hwjiang1510.github.io/) (2023, now at UT Austin), Guilherme Perrotta (2022, now at Google DeepMind), [Felipe Cadar](https://eucadar.com/) (2022, now at UFMG/Universite Bourgogne), [Joao Cardenuto](https://scholar.google.com/citations?user=sEKE5nMAAAAJ) (2022, now at Unicamp), [Taihong Xiao](https://prinsphield.github.io/) (2021, now at Google DeepMind), [Arun Mukundan](https://scholar.google.com/citations?user=co2dwSoAAAAJ) (2019, now at University of Amsterdam), [Marvin Teichmann](https://scholar.google.de/citations?user=I-ztKQsAAAAJ) (2018, now at Siemens), [Jean-Baptiste Boin](https://jbboin.github.io/) (2017, now at Anthropic), [Hyeonwoo Noh](https://hyeonwoonoh.github.io/) (2016, now at OpenAI).
 
-PhD/MSc committees: Liuyue Xie (2025, CMU), Guilherme Potje (2024, UFMG), Welerson Melo (2023, UFMG), Jean-Baptiste Boin (2019, Stanford).
+PhD/MSc committees: [Liuyue Xie](https://louisexie.simple.ink/) (2025, CMU), [Guilherme Potje](https://guipotje.github.io/) (2024, UFMG), Welerson Melo (2023, UFMG), [Jean-Baptiste Boin](https://jbboin.github.io/) (2019, Stanford).
 
 ## Paper awards
 
