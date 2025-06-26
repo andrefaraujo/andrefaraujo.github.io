@@ -11,14 +11,15 @@ redirect_from:
 
 ## About
 
-I am a Senior Staff Research Scientist / Tech Lead Manager @ Google DeepMind, working on multimodal AI (computer vision, machine learning and related areas). I lead a team of researchers / engineers split between Mountain View (US) and Sao Paulo (Brazil).
+I am a Senior Staff Research Scientist / Tech Lead Manager @ Google DeepMind, working on multimodal AI (computer vision, machine learning and related areas). I lead a team of researchers / engineers distributed between Mountain View (US) and Sao Paulo (Brazil).
 
 I graduated with a Ph.D. from Stanford University in 2016.
 I am a Senior Member of the IEEE, and was previously also a [Fulbright Science & Technology Scholar](https://eca.state.gov/fulbright/fulbright-programs/program-summaries/international-fulbright-science-technology-award) and an [Accel Leadership Scholar](http://stvp.stanford.edu/alp/).
 
 ## News
 
-* [Jun'25] I'm giving a talk at the [CVPR'25 BEAM workshop](https://beam-workshop2025.github.io/), entitled *"What's missing in multimodal AI? Towards spatial awareness, effective tool use and fine-grained understanding"*.
+* [Jun'25] Our [AlignDiff](https://arxiv.org/abs/2503.21581) paper is now accepted into ICCV'25!
+* [Jun'25] Talk at the [CVPR'25 BEAM workshop](https://beam-workshop2025.github.io/), entitled *"What's missing in multimodal AI? Towards spatial awareness, effective tool use and fine-grained understanding"*. Please find the recording [here](https://www.youtube.com/watch?v=-PWa1J-1w2U&t=5326s).
 * [Mar'25] New paper up on arXiv: L. Xie, J. Guo, O. Cakmakci, A. Araujo, L. A. Jeni, Z. Jia, ["AlignDiff: Learning Physically-Grounded Camera Alignment via Diffusion"](https://arxiv.org/abs/2503.21581)
 * [Mar'25] I will serve as Area Chair for NeurIPS'25.
 * [Feb'25] CVPR'25 **highlight** paper: T. Novello\*, D. Aldana\*, A. Araujo, L. Velho, ["Tuning the Frequencies: Robust Training for Sinusoidal Neural Networks"](https://arxiv.org/abs/2407.21121).
