@@ -19,7 +19,6 @@ I am a Senior Member of the IEEE, and was previously also a [Fulbright Science &
 ## News
 
 * [Sep'25] NeurIPS'25 paper: J. Barreto, C. Caetano, A. Araujo, W. Schwartz, ["VESSA: Video-based objEct-centric Self-Supervised Adaptation for Visual Foundation Models"](https://arxiv.org/abs/2510.20994).
-* [Sep'25] Our VESSA paper is now accepted into NeurIPS'25. Paper and code release coming soon!
 * [Aug'25] I will serve as Area Chair for CVPR'26 (Lead AC role).
 * [Jul'25] I will serve as Workshop Chair for ICLR'26.
 * [Jun'25] Our [AlignDiff](https://arxiv.org/abs/2503.21581) paper is now accepted into ICCV'25!
