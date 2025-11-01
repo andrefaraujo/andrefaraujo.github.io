@@ -4,6 +4,6 @@ collection: publications
 authors: L. Xie, J. Guo, O. Cakmakci, A. Araujo, L. A. Jeni, Z. Jia
 paperurl: https://arxiv.org/abs/2503.21581
 papername: Paper
-venue: ICCV
+venue: Proc. ICCV
 datename: Oct. 2025
 ---
