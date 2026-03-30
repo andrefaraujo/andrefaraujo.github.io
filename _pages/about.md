@@ -11,7 +11,7 @@ redirect_from:
 
 ## About
 
-I am a Senior Staff Research Scientist / Tech Lead Manager @ Google DeepMind, working on multimodal AI (computer vision, machine learning and related areas). I lead a team of researchers / engineers distributed between Mountain View (US) and Sao Paulo (Brazil).
+I am a Senior Staff Research Scientist / Tech Lead Manager @ Google DeepMind, working on multimodal AI (computer vision, machine learning and related areas). I lead a team of researchers / engineers distributed between Mountain View, Sao Paulo and Zurich.
 
 I graduated with a Ph.D. from Stanford University in 2016.
 I am a Senior Member of the IEEE, and was previously also a [Fulbright Science & Technology Scholar](https://eca.state.gov/fulbright/fulbright-programs/program-summaries/international-fulbright-science-technology-award) and an [Accel Leadership Scholar](http://stvp.stanford.edu/alp/).
