@@ -18,7 +18,7 @@ I am a Senior Member of the IEEE, and was previously also a [Fulbright Science &
 
 ## News
 
-* [Apr'26] TIPSv2 is now released! Check out the project page, code, and models at: https://gdm-tipsv2.github.io/
+* [Apr'26] TIPSv2 is now released! Check out the project page, code and models at [gdm-tipsv2.github.io](https://gdm-tipsv2.github.io/)
 * [Feb'26] Two papers accepted at CVPR'26! [TIPSv2](https://arxiv.org/abs/2604.12012) and [Omnivorous Vision Encoder](https://arxiv.org/abs/2602.24181).
 * [Sep'25] NeurIPS'25 paper: J. Barreto, C. Caetano, A. Araujo, W. Schwartz, ["VESSA: Video-based objEct-centric Self-Supervised Adaptation for Visual Foundation Models"](https://arxiv.org/abs/2510.20994).
 * [Sep'25] Two new papers up on arXiv: [Infusing fine-grained visual knowledge to Vision-Language Models](https://arxiv.org/abs/2508.12137) and [Local-to-Global](https://arxiv.org/abs/2509.04351).
