@@ -9,7 +9,7 @@ redirect_from:
 
 ## Academic service
 
-Area Chair: CVPR ('26, '25, '24, '23), NeurIPS ('25, '24), ICCV'25, ECCV'24, WACV'23.
+Area Chair: CVPR ('27, '26, '25, '24, '23), ICLR'27, NeurIPS ('25, '24), ICCV'25, ECCV'24, WACV'23.
 
 Workshop Chair: ICLR'26
 
