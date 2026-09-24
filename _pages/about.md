@@ -18,6 +18,7 @@ I am a Senior Member of the IEEE, and was previously also a [Fulbright Science &
 
 ## News
 
+* [Sep'26] Two papers accepted at NeurIPS'26! [TFTV](https://arxiv.org/abs/2609.09054) and M-Plicits (coming soon!).
 * [Sep'26] I will serve as Area Chair for CVPR'27 and ICLR'27.
 * [Sep'26] New paper up on arXiv: G. Perin, L. Boscaini, A. Araujo, N. Hirata, ["Training-Free Task Vectors for LLM Behavioral Control"](https://arxiv.org/abs/2609.09054)
 * [Sep'26] TIPSv2 reached 1 million downloads on HuggingFace!
