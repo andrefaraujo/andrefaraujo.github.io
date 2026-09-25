@@ -18,9 +18,10 @@ I am a Senior Member of the IEEE, and was previously also a [Fulbright Science &
 
 ## News
 
-* [Sep'26] Two papers accepted at NeurIPS'26! [TFTV](https://arxiv.org/abs/2609.09054) and M-Plicits (coming soon!).
+* [Sep'26] Two papers accepted at NeurIPS'26! [TFTV](https://arxiv.org/abs/2609.09054) and [M-Plicits](https://arxiv.org/abs/2609.28684). Both now on arXiv:
+  * G. Perin, L. Boscaini, A. Araujo, N. Hirata, ["Training-Free Task Vectors for LLM Behavioral Control"](https://arxiv.org/abs/2609.09054)
+  * V. Silva, I. Melo, M. Bessa, G. Schardong, L. Schirmer, A. Araujo, N. Goncalves, H. Lopes, A. Raposo, L. Velho, T. Novello, ["M-plicits: Neural Implicit Surfaces via Nested Multiscale Residuals"](https://arxiv.org/abs/2609.28684)
 * [Sep'26] I will serve as Area Chair for CVPR'27 and ICLR'27.
-* [Sep'26] New paper up on arXiv: G. Perin, L. Boscaini, A. Araujo, N. Hirata, ["Training-Free Task Vectors for LLM Behavioral Control"](https://arxiv.org/abs/2609.09054)
 * [Sep'26] TIPSv2 reached 1 million downloads on HuggingFace!
 * [Apr'26] TIPSv2 is now released! Check out the project page, code and models at [gdm-tipsv2.github.io](https://gdm-tipsv2.github.io/)
 * [Feb'26] Two papers accepted at CVPR'26! [TIPSv2](https://arxiv.org/abs/2604.12012) and [Omnivorous Vision Encoder](https://arxiv.org/abs/2602.24181).
